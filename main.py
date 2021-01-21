@@ -1,2 +1,2 @@
 print("Hello World")
-print("재현")
+print("재철")
